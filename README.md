@@ -5,6 +5,6 @@ This project's source code can have many flaws I am still a beginner and I follo
 # Live demo of the project:
 https://jealous-exp-tracker.netlify.app
 
-# Tutorial link:
+Tutorial link:
 https://www.youtube.com/watch?v=NnUFOWR_V4Y
 
